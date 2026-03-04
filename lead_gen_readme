@@ -1,0 +1,43 @@
+# Automated Lead Follow-Up System — DFW Service Businesses
+
+An end-to-end lead capture and follow-up automation built for local DFW service businesses that run on leads and appointments and can't afford to let one slip through the cracks.
+
+## What It Does
+
+The second a prospect fills out a contact form, this system fires automatically — no human needed:
+
+1. **Instant personalized email** sent to the lead confirming their inquiry
+2. **Business hours detection** — system responds differently based on time of day/after hours
+3. **Instant owner notification** with full lead details delivered immediately
+4. **Automatic lead logging** — every contact is tracked and stored
+5. **Automated follow-up** — if the lead hasn't responded in 2 hours, a follow-up email goes out on its own
+
+Zero manual work. Runs 24/7 while the business owner is on the job.
+
+## Built For
+
+- Auto repair shops
+- HVAC companies
+- Property managers
+- Med spas and wellness clinics
+- Real estate agents
+- Any DFW business that runs on leads and appointments
+
+## Tools & Stack
+
+| Tool | Role |
+|------|------|
+| n8n | Workflow automation engine |
+| Email API | Automated outreach and follow-up |
+| Conditional logic nodes | Business hours detection |
+| Data logging | Lead tracking and storage |
+
+## Business Impact
+
+- Eliminates response delay — leads are contacted in seconds, not hours
+- Reduces lead loss from slow follow-up (industry average response time is 47 hours — this system responds instantly)
+- Frees up business owners from manual inbox management entirely
+
+## Status
+
+Actively offering free setup for 2 DFW businesses in exchange for feedback. Built and maintained by Megan Dimiyo-Mbenoun.
